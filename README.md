@@ -19,7 +19,7 @@ A powerful task management and time tracking application built with Tauri, React
 
 ### From Releases
 
-Download the latest installer for your platform from the [Releases](https://github.com/yourusername/focusflow/releases) page:
+Download the latest installer for your platform from the [Releases](https://github.com/GxAditya/focusflow-codebuff-hackathon/releases) page:
 
 - Windows: `focusflow_x.x.x_x64-setup.exe`
 - macOS: `focusflow_x.x.x_x64.dmg`
@@ -34,7 +34,7 @@ Prerequisites:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/focusflow.git
+git clone https://github.com/GxAditya/focusflow-codebuff-hackathon.git
 cd focusflow
 
 # Install dependencies
